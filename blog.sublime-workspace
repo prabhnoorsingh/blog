@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"que",
+				"queryset_list"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"qu",
+				"queryset_list"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"Pos",
+				"PostManager"
+			],
+			[
+				"Po",
+				"PostManager"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"pre",
+				"pre_save_post_receiver"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"he",
+				"height_field"
+			],
+			[
+				"page",
+				"page_request_var"
+			],
+			[
+				"St",
+				"STATIC_URL"
+			],
+			[
+				"urls",
+				"urlpatterns"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"con",
+				"conf"
+			],
+			[
+				"BAS",
+				"BASE_DIR"
+			],
+			[
+				"is_",
+				"is_valid"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Ps",
+				"PostForm"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"p",
+				"posts"
+			],
+			[
+				"res",
+				"request"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"Post",
+				"PostModelAdmin"
+			],
+			[
+				"np",
+				"np"
+			],
+			[
+				"impo",
+				"importance"
+			],
+			[
+				"featu",
+				"features_train"
+			],
+			[
+				"lab",
+				"labels_test"
+			],
+			[
+				"fea",
+				"features_test"
+			],
+			[
+				"labe",
+				"labels_train"
+			],
+			[
+				"eve",
+				"eventDate"
+			],
+			[
+				"EVE",
+				"eventTime"
+			],
+			[
+				"MES",
+				"message"
+			],
+			[
+				"TO",
+				"toId"
+			],
+			[
+				"EV",
+				"eventName"
+			],
+			[
+				"ev",
+				"eventName"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"EVEN",
+				"EVENT_NAME"
+			],
+			[
+				"SE",
+				"SENDER_ID"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"fe",
+				"feature_names"
+			],
+			[
+				"vec",
+				"vectorizer"
+			],
+			[
+				"Td",
+				"TfidfVectorizer"
+			],
+			[
+				"from",
+				"from_data"
+			],
+			[
+				"word",
+				"word_data"
+			],
+			[
+				"ste",
+				"stemmer"
+			],
+			[
+				"tex",
+				"text_string"
+			],
+			[
+				"sto",
+				"stockNumpy"
+			],
+			[
+				"stock",
+				"stockNumpy"
+			],
+			[
+				"sala",
+				"salaryArr"
+			],
+			[
+				"sal",
+				"sal"
+			],
+			[
+				"as",
+				"asal"
+			],
+			[
+				"ex",
+				"ex_stock"
+			],
+			[
+				"fa",
+				"feature_3"
+			],
+			[
+				"fature",
+				"feature_2"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"User",
+				"UserLogin"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"dat",
+				"data_dict"
+			],
+			[
+				"co",
+				"coef_"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"neth",
+				"net_worths"
+			],
+			[
+				"ag",
+				"ages"
+			],
+			[
+				"pr",
+				"prediction"
+			],
+			[
+				"net",
+				"net_worths_test"
+			],
+			[
+				"ages",
+				"ages_test"
+			],
+			[
+				"age",
+				"ages_train"
+			],
+			[
+				"targ",
+				"target_train"
+			],
+			[
+				"tar",
+				"target_train"
+			],
+			[
+				"feat",
+				"feature_train"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"lae",
+				"labels_train"
+			],
+			[
+				"acc",
+				"accuracy_score"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"bra",
+				"brands"
+			],
+			[
+				"num",
+				"num_likes"
+			],
+			[
+				"comm",
+				"comment_ordinal"
+			],
+			[
+				"Fr",
+				"From"
+			],
+			[
+				"user",
+				"usercheck"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"U",
+				"UUID"
+			],
+			[
+				"recv",
+				"recv_flag"
+			],
+			[
+				"all_u",
+				"all_uuid"
+			],
+			[
+				"all_",
+				"all_uuid"
+			],
+			[
+				"all",
+				"all_user"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"us",
+				"usender_port"
+			],
+			[
+				"US",
+				"USERS_PORT"
+			],
+			[
+				"ctx",
+				"ctx"
+			],
+			[
+				"script",
+				"scripts"
+			],
+			[
+				"ser",
+				"server_msg"
+			],
+			[
+				"msg",
+				"msg1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 2318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 3450,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_detail.html",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/templatetags/urlify.py",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/admin.py",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 1153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/forms.py",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post_form.html",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "src/templates/post_list.html",
+			"settings":
+			{
+				"buffer_size": 1784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/urls.py",
+			"settings":
+			{
+				"buffer_size": 488,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/views.py",
+			"settings":
+			{
+				"buffer_size": 3292,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"b",
+				"Snippet: bs3-navbar-link"
+			],
+			[
+				"boo",
+				"Snippet: bs3-row-col"
+			],
+			[
+				"Gist",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"gist",
+				"Set Syntax: Regular Expressions (Python)"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/parul/Documents/Self-Study/Django/blog/src/posts/templatetag/__init__.py",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/posts/views_copy.py",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/static/css/base.css",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/templates/message_display.html",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/amster.jpg",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/posts/views.py",
+		"/Users/parul/Documents/Self-Study/Django/blog/src/templates/index.html",
+		"/Users/parul/Documents/Self-Study/Django/blog/.Python",
+		"/Users/parul/Documents/Self-Study/Django/blog/trydjnago19.sublime-project",
+		"/Users/parul/Documents/Python Tasks- ABhisek/learn_python/task001/main.py",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/vectorize_text.py",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/feature_selection/find_signature.py",
+		"/Users/parul/Documents/Self-Study/Python/EventSchedulerApp/addEvent.py",
+		"/Users/parul/Documents/Self-Study/Python/EventSchedulerApp/viewEvent.py",
+		"/Users/parul/Documents/Self-Study/Python/EventSchedulerApp/eventCreater.py",
+		"/Users/parul/Documents/Self-Study/Python/EventSchedulerApp/createTable.py",
+		"/Users/parul/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/tools/parse_out_email_text.py",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/your_email_authors.pkl",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/your_word_data.pkl",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/from_sara.txt",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/k_means/k_means_cluster.py",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/tools/feature_format.py",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/test_email.txt",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/text_learning/from_chris.txt",
+		"/Users/parul/Documents/Self-Study/html/flat-html5-css3-login-form/css/style.css",
+		"/Users/parul/Documents/Self-Study/html/flat-html5-css3-login-form/js/index.js",
+		"/Users/parul/Documents/Self-Study/GreyTHR/greythr/chimeroom/templates/index.html",
+		"/Users/parul/Documents/Self-Study/html/flat-html5-css3-login-form/index.html",
+		"/Users/parul/Documents/Self-Study/Udacity/Machine Learning/Projects/outliers/practice_outliers_net_worths.pkl",
+		"/Users/parul/Documents/Self-Study/Django/mysite/mysite/__init__.py",
+		"/Users/parul/Documents/Self-Study/Django/mysite/mysite/settings.pyc",
+		"/Users/parul/Documents/Self-Study/pluginkart/backup_product.html",
+		"/Users/parul/Documents/Self-Study/htpasswds/catalog/view/theme/lexus_store/template/product/product.tpl",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/config.php",
+		"/Users/parul/Documents/Self-Study/tawk.to/pluginkart/sample.html",
+		"/Users/parul/Documents/Self-Study/htpasswds/admin/config.php",
+		"/Users/parul/Documents/Self-Study/html/js-option.html",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/view/theme/lexus_store/template/common/header.tpl",
+		"/Users/parul/Documents/Self-Study/pluginkart/spectrum-colorpicker.html",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/system/database/mysql.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/language/english/module/themecontrol.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/language/english/common/header.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/language/english/module/category.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/view/theme/lexus_store/template/product/product.tpl",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/language/english/product/product.php",
+		"/Users/parul/Documents/Self-Study/htpasswds/catalog/controller/product/product.php",
+		"/Users/parul/Documents/Self-Study/htpasswds/catalog/model/catalog/product.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/model/menu/megamenu.php",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/catalog/view/theme/lexus_store/template/product/category.tpl",
+		"/Users/parul/Documents/Self-Study/htpasswds/vqmod/pathReplaces.php",
+		"/Users/parul/Documents/Self-Study/htpasswds/system/config/index.html",
+		"/Users/parul/Documents/Self-Study/pluginkart/htpasswds/admin/controller/common/header.php",
+		"/Users/parul/Documents/Self-Study/tawk.to/pluginkart/phone-case-design/select-mobile-model.html",
+		"/Users/parul/Documents/Self-Study/tawk.to/test.html",
+		"/Users/parul/Documents/Self-Study/tawk.to/tawkto-example.html",
+		"/Users/parul/Documents/Self-Study/tawk.to/test2.html",
+		"/Users/parul/Downloads/home.php",
+		"/Users/parul/Downloads/setting.php",
+		"/Users/parul/Downloads/bootstrap.css",
+		"/Users/parul/Downloads/content_top.php",
+		"/Users/parul/Downloads/home (1).php",
+		"/Users/parul/Downloads/header.tpl",
+		"/Users/parul/Downloads/header (2).tpl",
+		"/Users/parul/Documents/Self-Study/tawk.to/pluginkart/header.tpl",
+		"/Users/parul/Downloads/index.php",
+		"/Users/parul/Downloads/htaccess",
+		"/Users/parul/Downloads/Opencart Module v1.0 Citrus Payment Gateway.docx",
+		"/Users/parul/Documents/Self-Study/tawk.to/pluginkart/header.php",
+		"/Users/parul/Downloads/index (1).html",
+		"/Users/parul/Downloads/product.php",
+		"/Users/parul/Downloads/header.php",
+		"/Users/parul/Downloads/config.php",
+		"/Users/parul/Downloads/header (1).php",
+		"/Users/parul/Downloads/php.ini",
+		"/Users/parul/Downloads/index.html",
+		"/Users/parul/Downloads/using_google_maps_and_google_places_in_android_apps_part_2_source/src/MyMapActivity.java",
+		"/Users/parul/Documents/lavneet-tasks/15122015/book_mwspricingnew_p1.php",
+		"/Users/parul/Documents/course-mongodb/final exam/dump/enron/messages.metadata.json",
+		"/Users/parul/Documents/course-mongodb/final exam/aggregate7.js",
+		"/Users/parul/Documents/course-mongodb/final exam/ques7.js",
+		"/Users/parul/Documents/course-mongodb/final exam/mapreducs.js",
+		"/Users/parul/Documents/course-mongodb/week6/validate.py",
+		"/Users/parul/Documents/Python Tasks- ABhisek/learn_python/task002/server.py",
+		"/Users/parul/Documents/development-work/python/practice/test2.py",
+		"/Users/parul/Documents/development-work/python/practice/test1.py",
+		"/Users/parul/Documents/Python Tasks- ABhisek/learn_python/task002/client.py",
+		"/Users/parul/Documents/course-mongodb/week2/grades.json",
+		"/Users/parul/Documents/development-work/python/practice/user_server.py",
+		"/Users/parul/Desktop/client1.py",
+		"/Users/parul/Desktop/server1.py",
+		"/Users/parul/Documents/Python Tasks- ABhisek/learn_python/task002/main.py",
+		"/Users/parul/Documents/edx-Bootstrap/bootstrapDemo/index.html",
+		"/Users/parul/Documents/development-work/python/zmq-app/chatroom-multiprocss.py",
+		"/Users/parul/Documents/untitled text 5.py",
+		"/Users/parul/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"raise",
+			"add",
+			"text",
+			"targetFeatureSplit",
+			"pred",
+			"LOGIN_URL",
+			"stati",
+			"TEMPLATE_DIRS",
+			"SETTINGS_PATH",
+			"lti",
+			"test_list",
+			"eys = dictionary.keys()",
+			"keys",
+			"sort_keys",
+			"<div class=\"col-lg-5 col-md-5 col-sm-5 col-xs-12 image-container\">",
+			"<h2><?php echo $text_option; ?></h2>",
+			"rabhn",
+			"getProductImages",
+			"getProduct",
+			"p",
+			"p.image",
+			"getProduct",
+			"product_info",
+			"					['tax_class_id'], $this->config->get('config_tax')));\nproduct_info",
+			"product_info",
+			"					['tax_class_id'], $this->config->get('config_tax')));\n					['tax_class_id'], $this->config->get('config_tax')));\n",
+			"					['tax_class_id'], $this->config->get('config_tax')));\n					['tax_class_id'], $this->config->get('config_tax')));\nproduct_info",
+			"					['tax_class_id'], $this->config->get('config_tax')));\nproduct_info",
+			"product_info",
+			"thumb",
+			"image",
+			"product_option_value",
+			"product_option_value_data",
+			"product",
+			"option_value_id",
+			"image",
+			"product_id = '\" . (int)$product_id . \"' ORDER BY sort_order ASC\");",
+			"image",
+			"option",
+			"btn btn-theme-primary ",
+			"Available Options",
+			"btn btn-theme-primary",
+			"class=\"option\"",
+			"upload",
+			"Upload",
+			"Upload Picture",
+			"Upload Picture:",
+			"class=\"option\"",
+			"class=\"options\"",
+			"image-container",
+			"zoomContainer",
+			"options",
+			"form-control",
+			"template",
+			"option",
+			"profile",
+			"form-control",
+			"categories",
+			"thumb",
+			"$image",
+			"class=\"product-meta\"",
+			"heading_title",
+			"product-label-special label",
+			"class=\"form-control\"",
+			"$option['type']",
+			"product_option_id",
+			"options",
+			"option-253",
+			"form-control",
+			"text_separator",
+			"sort_order",
+			"sort_ordersort_order",
+			"sort_order",
+			"sort",
+			"heading_title",
+			"limits",
+			"thumb",
+			"categories",
+			"header",
+			"products",
+			"product",
+			"row",
+			"sort",
+			"results",
+			"Showing 1 to 14 of 14 (1 Pages)",
+			"heading_title",
+			"get",
+			"col-xs-6 col-lg-4 col-sm-4 col-xs-12",
+			"product-meta",
+			"products-block",
+			"product-grid",
+			"product-block",
+			"form-control",
+			"zoomContainer",
+			"btn-theme-primary",
+			"btn-theme-primary ",
+			"btn btn-theme-primary ",
+			"load",
+			"product-label-special label",
+			"btn btn-theme-primary",
+			"form-control",
+			"792",
+			"set",
+			"product-list",
+			"products-block",
+			"product-grid",
+			"col-xs-6 col-lg-4 col-sm-4 col-xs-12",
+			"design",
+			"available options",
+			"hard case",
+			"hard ",
+			"btn-theme-primary",
+			"popup",
+			"category_data",
+			"script",
+			"GoogleAnalyticsObject",
+			"getScripts",
+			"boot",
+			"home",
+			"script",
+			"header",
+			"onPostExecute",
+			"	@Override\n	protected void onResume() {\n		super.onResume();\n		if(theMap!=null){\n			locMan.requestLocationUpdates(LocationManager.NETWORK_PROVIDER, 30000, 100, this);\n		}\n	}\n	\n	@Override\n	protected void onPause() {\n		super.onPause();\n		if(theMap!=null){\n			locMan.removeUpdates(this);\n		}\n	}",
+			"SellerFeedbackCount",
+			"AllOfferListingsConsidered",
+			"compare_flag_new",
+			"comment_ordinal",
+			"like"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 11,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/posts/models.py",
+					"settings":
+					{
+						"buffer_size": 2318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blog/settings.py",
+					"settings":
+					{
+						"buffer_size": 3450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3381,
+								3381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/post_detail.html",
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/posts/templatetags/urlify.py",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/posts/admin.py",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/blog/urls.py",
+					"settings":
+					{
+						"buffer_size": 1153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								973,
+								973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/posts/forms.py",
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/post_form.html",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/templates/post_list.html",
+					"settings":
+					{
+						"buffer_size": 1784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1368,
+								1368
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1038,
+								1038
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/posts/urls.py",
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								488,
+								488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/posts/views.py",
+					"settings":
+					{
+						"buffer_size": 3292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1824,
+								1824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
